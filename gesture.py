@@ -1,6 +1,3 @@
-# Created by Madhumitha Kolkar 2024
-
-# Import necessary frameworks
 import cv2
 import numpy as np
 import mediapipe as mp
